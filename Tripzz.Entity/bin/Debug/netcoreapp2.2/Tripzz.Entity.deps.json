@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "Tripzz.Entity/1.0.0": {
+        "runtime": {
+          "Tripzz.Entity.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tripzz.Entity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

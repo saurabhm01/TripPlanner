@@ -1,0 +1,14 @@
+D:\Projects\Trippzz-master\CoreAppProject\Tripzz.Service\bin\Release\netcoreapp3.0\Tripzz.Service.deps.json
+D:\Projects\Trippzz-master\CoreAppProject\Tripzz.Service\bin\Release\netcoreapp3.0\Tripzz.Service.dll
+D:\Projects\Trippzz-master\CoreAppProject\Tripzz.Service\bin\Release\netcoreapp3.0\Tripzz.Service.pdb
+D:\Projects\Trippzz-master\CoreAppProject\Tripzz.Service\bin\Release\netcoreapp3.0\Tripzz.Data.dll
+D:\Projects\Trippzz-master\CoreAppProject\Tripzz.Service\bin\Release\netcoreapp3.0\Tripzz.Entity.dll
+D:\Projects\Trippzz-master\CoreAppProject\Tripzz.Service\bin\Release\netcoreapp3.0\Tripzz.Data.pdb
+D:\Projects\Trippzz-master\CoreAppProject\Tripzz.Service\bin\Release\netcoreapp3.0\Tripzz.Data.dll.config
+D:\Projects\Trippzz-master\CoreAppProject\Tripzz.Service\bin\Release\netcoreapp3.0\Tripzz.Entity.pdb
+D:\Projects\Trippzz-master\CoreAppProject\Tripzz.Service\obj\Release\netcoreapp3.0\Tripzz.Service.csprojAssemblyReference.cache
+D:\Projects\Trippzz-master\CoreAppProject\Tripzz.Service\obj\Release\netcoreapp3.0\Tripzz.Service.AssemblyInfoInputs.cache
+D:\Projects\Trippzz-master\CoreAppProject\Tripzz.Service\obj\Release\netcoreapp3.0\Tripzz.Service.AssemblyInfo.cs
+D:\Projects\Trippzz-master\CoreAppProject\Tripzz.Service\obj\Release\netcoreapp3.0\Tripzz.Service.csproj.CopyComplete
+D:\Projects\Trippzz-master\CoreAppProject\Tripzz.Service\obj\Release\netcoreapp3.0\Tripzz.Service.dll
+D:\Projects\Trippzz-master\CoreAppProject\Tripzz.Service\obj\Release\netcoreapp3.0\Tripzz.Service.pdb

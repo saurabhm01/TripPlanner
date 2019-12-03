@@ -1,0 +1,8 @@
+D:\Projects\Trippzz-master\CoreAppProject\Tripzz.Entity\bin\Debug\netcoreapp2.2\Tripzz.Entity.deps.json
+D:\Projects\Trippzz-master\CoreAppProject\Tripzz.Entity\bin\Debug\netcoreapp2.2\Tripzz.Entity.dll
+D:\Projects\Trippzz-master\CoreAppProject\Tripzz.Entity\bin\Debug\netcoreapp2.2\Tripzz.Entity.pdb
+D:\Projects\Trippzz-master\CoreAppProject\Tripzz.Entity\obj\Debug\netcoreapp2.2\Tripzz.Entity.csprojAssemblyReference.cache
+D:\Projects\Trippzz-master\CoreAppProject\Tripzz.Entity\obj\Debug\netcoreapp2.2\Tripzz.Entity.AssemblyInfoInputs.cache
+D:\Projects\Trippzz-master\CoreAppProject\Tripzz.Entity\obj\Debug\netcoreapp2.2\Tripzz.Entity.AssemblyInfo.cs
+D:\Projects\Trippzz-master\CoreAppProject\Tripzz.Entity\obj\Debug\netcoreapp2.2\Tripzz.Entity.dll
+D:\Projects\Trippzz-master\CoreAppProject\Tripzz.Entity\obj\Debug\netcoreapp2.2\Tripzz.Entity.pdb
